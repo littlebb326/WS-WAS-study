@@ -1,4 +1,4 @@
-SSL 이란? 
+#SSL 이란?
 Secure Socket Layer로 웹서버와 브라우저 사이의 보안
 HTTP는 클라이언트와 서버가 주고 받는 데이터에 대한 보안이 취약.
 HTTPS는 SSL 프로토콜 위에서 돌아가는 프로토콜이다.
