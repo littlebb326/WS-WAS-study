@@ -3,7 +3,7 @@
 1. SSL 이란?
 - Secure Socket Layer로 웹서버와 브라우저 사이의 보안이다. HTTP는 클라이언트와 서버가 주고 받는 데이터에 대한 보안이 취약하다. HTTPS는 SSL 프로토콜 위에서 돌아가는 프로토콜이다. SSL을 표준화하여 계승한 것이 TLS다.(이름만 다른 것)
 
-2. ava EE 기업용 자바 표준 규격
+1. ava EE 기업용 자바 표준 규격
 JEUS 8은 Java EE 7 표준을 만족
 Java EE 구성요소?
 JSP, Servlet (웹 어플리케이션)
